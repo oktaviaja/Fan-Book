@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\SMK-HP4\Desktop\part05\fanbook\venv"
+VIRTUAL_ENV="C:\Users\SMK-HP4\Desktop\part05\Fan Book\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
